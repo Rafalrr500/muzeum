@@ -1,3 +1,2 @@
 # muzeum
-Program obsługi muzeum
-marzec 2021
+Program obsługi muzeum (marzec 2021)
